@@ -1381,4 +1381,16 @@ val internalVerificationInfoDatabase = setOf(
             )
         )
     ),
+    InternalDatabaseVerificationInfo(
+        "com.hulu.plus",
+        listOf(
+            // Google Play Store
+            Hashes(
+                listOf(
+                    "CF:BD:F8:DC:D9:64:69:24:3D:DE:61:8A:D6:A1:2F:A3:76:85:BA:98:F5:C6:F4:C7:78:BA:9F:BF:75:A8:B1:45"
+                ),
+                false
+            )
+        )
+    ),
 )
