@@ -1381,4 +1381,16 @@ val internalVerificationInfoDatabase = setOf(
             )
         )
     ),
+    InternalDatabaseVerificationInfo(
+        "com.discord",
+        listOf(
+            // Google Play Store
+            Hashes(
+                listOf(
+                    "3C:39:D2:3C:F9:36:78:49:A5:C6:99:39:56:47:FE:0E:5B:FE:A5:A1:F1:F4:0D:8C:71:7D:DC:70:F8:BF:A1:13"
+                ),
+                false
+            )
+        )
+    ),
 )
